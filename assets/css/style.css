@@ -1121,6 +1121,9 @@ footer .sub-footer a {
 }
 
 @media (max-width: 767px) {
+	.banner{
+		padding-top: 100px;
+	}
 	#navbarResponsive {
 	    z-index: 99999;
 	    position: absolute;
