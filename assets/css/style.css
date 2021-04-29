@@ -1028,15 +1028,6 @@ footer .insta-call-to-action {
 		left: 30px;
 		top: 10px;
 	}
-	/*
-	.functional-buttons {
-		position: absolute;
-		left: 50%;
-		top: 20px;
-		transform: translate(-50%);
-		margin-left: 15px;
-	}
-	*/
 	.banner #search-section fieldset button {
 		margin-top: 0px;
 	}
@@ -1059,15 +1050,9 @@ footer .insta-call-to-action {
 	    width: 100%;
 	    text-align: center;
 	}
-	.navbar .navbar-nav .nav-item:last-child {
-		/*border-bottom: none;*/
-	}
 	.navbar .navbar-nav a.nav-link {
 		padding: 15px 0px;
 		color: #1e1e1e!important;
-	}
-	.navbar .navbar-nav .active>.nav-link {
-		/*color: #00bcd4!important;*/
 	}
 	.about-us .left-image {
 		margin-bottom: 30px;
